@@ -1,4 +1,4 @@
-/*this would be updated by babel's Engine */
+/*This would be updated by babel's Engine */
 
 'use strict';
 
