@@ -4,13 +4,13 @@ console.log("App.js begin running!")
 //JSX - JavaScrippt XML
 var app={
    title: 'Indecision App',
-   subtitle: "it' a great app"
+   subtitles: "it' a great app"
 }
 
 var template = (
     <div>
         <h1>{app.title}</h1>
-        <h3>{app.subtitle}</h3>
+        <h3>{app.subtitles}</h3>
     </div>
 );
 var approots = document.getElementById('app');
