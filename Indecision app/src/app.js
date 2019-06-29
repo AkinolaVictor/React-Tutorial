@@ -1,5 +1,5 @@
 'use strict';
-console.log("App.js is running!")
+console.log("App.js begin running!")
 
 //JSX - JavaScrippt XML
 var app={
