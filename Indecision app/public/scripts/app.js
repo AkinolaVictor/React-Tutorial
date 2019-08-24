@@ -1,5 +1,5 @@
 /*This would be updated by babel's Engine */
-
+//would be continued soon
 'use strict';
 
 console.log("App.js is running!");
@@ -31,6 +31,7 @@ var user = {
     name: 'AKINOLA Victor',
     age: 23,
     location: 'Nigeria'
+    State: Osun State
 };
 
 var template2 = React.createElement(
