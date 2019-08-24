@@ -30,6 +30,7 @@ ReactDOM.render(template, approots);
 var user = {
     name: 'AKINOLA Victor',
     age: 23,
+    School: OAU, 
     location: 'Nigeria'
     State: Osun State
 };
