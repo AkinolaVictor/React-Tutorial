@@ -32,6 +32,7 @@ const app = {
     subtitle: 'put your file in the hand of the computer',
     option: []
 }
+//use 
 //console.log(app.options.length);
 const onFormSubmit = (e) => {
     e.preventDefault();
