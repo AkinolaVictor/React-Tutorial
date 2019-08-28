@@ -5,6 +5,7 @@ console.log("App.js is running!")
 
 const approots = document.getElementById('app');
 
+//for the user
 const user={
     name: 'AKINOLA Victor',
     age: 23,
