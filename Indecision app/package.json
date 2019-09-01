@@ -2,7 +2,7 @@
   "name": "indecision",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "AkinVictor",
+  "author": "Akin0laVictor",
   "license": "MIT",
   "dependencies": {
     "babel-preset-env": "1.5.2",
