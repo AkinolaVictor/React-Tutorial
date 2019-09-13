@@ -1,5 +1,5 @@
 /*This would be updated by babel's Engine */
-//would be continued soon
+//would be continued as soon as possible 
 'use strict';
 
 console.log("App.js is running!");
