@@ -7,7 +7,7 @@ console.log("App.js is running!");
 //JSX - JavaScript XML
 var app = {
     title: 'Indecision App',
-    subtitle: "it' a great app"
+    subtitle: "it' a great app buit with react"
 };
 
 var template = React.createElement(
