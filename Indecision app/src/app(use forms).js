@@ -16,7 +16,7 @@ const getLocation = (location) =>{
         return <p>Location: {location}</p>
     }
 }
-
+//djdgshsh
 var template = (
     <div>
         <h1>{user.name ? user.name : 'Unknown'}</h1>
