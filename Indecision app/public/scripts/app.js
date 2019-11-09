@@ -28,7 +28,7 @@ var approots = document.getElementById('app');
 ReactDOM.render(template, approots);
 
 var user = {
-    name: 'AKINOLA Victor',
+    name: 'AKINOLA Victor Lekan',
     age: 23,
     School: OAU, 
     location: 'Nigeria'
