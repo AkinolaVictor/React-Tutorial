@@ -2,7 +2,7 @@
 // it would be continued as soon as possible 
 'use strict';
 
-console.log("App.js is running!");
+console.log("Indecision App.js is running!");
 
 //JSX - JavaScript XML
 var app = {
