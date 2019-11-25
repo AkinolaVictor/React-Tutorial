@@ -1,7 +1,7 @@
 'use strict';
 console.log("App.js is running!")
 
-//JSX - JavaScrippt XML
+//JSX - JavaScript XML
 
 const approots = document.getElementById('app');
 
